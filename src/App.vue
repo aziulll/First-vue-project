@@ -68,7 +68,7 @@ watch(weights, (newWeights) => {
 </script>
 
 <template>
-  <h1>Weight Tracker</h1>
+  <h1>Monitoramento de peso</h1>
 
   <div class="current">
     <span>{{ currentWeight.weigth }}</span>
